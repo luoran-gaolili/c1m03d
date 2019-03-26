@@ -1,0 +1,4 @@
+#Tue Mar 26 16:18:45 CST 2019
+base.0=D\:\\project\\c1m03d\\example\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+renamed.0=classes.dex
+file.0=D\:\\project\\c1m03d\\example\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex

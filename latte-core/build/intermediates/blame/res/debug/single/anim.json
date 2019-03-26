@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\5bb8027b44ebe3059aa32fc1c1d58ac158a7e2ab\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "D:\\project\\c1m03d\\latte-core\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\57b153c87aa7085b1a4de93ccfc7ad0214e9a3ba\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\no_anim.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\686d9f531bf05acfd38b46903bb7b1dbbf4e38d5\\output\\res\\anim\\no_anim.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\h_fragment_pop_enter.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\686d9f531bf05acfd38b46903bb7b1dbbf4e38d5\\output\\res\\anim\\h_fragment_pop_enter.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\5bb8027b44ebe3059aa32fc1c1d58ac158a7e2ab\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "D:\\project\\c1m03d\\latte-core\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\5bb8027b44ebe3059aa32fc1c1d58ac158a7e2ab\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\5bb8027b44ebe3059aa32fc1c1d58ac158a7e2ab\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\h_fragment_pop_exit.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\686d9f531bf05acfd38b46903bb7b1dbbf4e38d5\\output\\res\\anim\\h_fragment_pop_exit.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\h_fragment_enter.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\686d9f531bf05acfd38b46903bb7b1dbbf4e38d5\\output\\res\\anim\\h_fragment_enter.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\ucrop_loader_circle_path.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\c259c80800aeddd46b5deae38f0fd9e38d96f482\\output\\res\\anim\\ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\v_fragment_pop_exit.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\686d9f531bf05acfd38b46903bb7b1dbbf4e38d5\\output\\res\\anim\\v_fragment_pop_exit.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\v_fragment_pop_enter.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\686d9f531bf05acfd38b46903bb7b1dbbf4e38d5\\output\\res\\anim\\v_fragment_pop_enter.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\57b153c87aa7085b1a4de93ccfc7ad0214e9a3ba\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\57b153c87aa7085b1a4de93ccfc7ad0214e9a3ba\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\57b153c87aa7085b1a4de93ccfc7ad0214e9a3ba\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\h_fragment_exit.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\686d9f531bf05acfd38b46903bb7b1dbbf4e38d5\\output\\res\\anim\\h_fragment_exit.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\5bb8027b44ebe3059aa32fc1c1d58ac158a7e2ab\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\5bb8027b44ebe3059aa32fc1c1d58ac158a7e2ab\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\57b153c87aa7085b1a4de93ccfc7ad0214e9a3ba\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\ucrop_loader_circle_scale.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\c259c80800aeddd46b5deae38f0fd9e38d96f482\\output\\res\\anim\\ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\pop_exit_no_anim.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\686d9f531bf05acfd38b46903bb7b1dbbf4e38d5\\output\\res\\anim\\pop_exit_no_anim.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\57b153c87aa7085b1a4de93ccfc7ad0214e9a3ba\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\5bb8027b44ebe3059aa32fc1c1d58ac158a7e2ab\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\v_fragment_enter.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\686d9f531bf05acfd38b46903bb7b1dbbf4e38d5\\output\\res\\anim\\v_fragment_enter.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\5bb8027b44ebe3059aa32fc1c1d58ac158a7e2ab\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\5bb8027b44ebe3059aa32fc1c1d58ac158a7e2ab\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\5bb8027b44ebe3059aa32fc1c1d58ac158a7e2ab\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\anim\\v_fragment_exit.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\686d9f531bf05acfd38b46903bb7b1dbbf4e38d5\\output\\res\\anim\\v_fragment_exit.xml"
+    }
+]

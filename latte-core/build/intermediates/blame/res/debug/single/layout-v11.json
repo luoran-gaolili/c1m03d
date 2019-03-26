@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\5bb8027b44ebe3059aa32fc1c1d58ac158a7e2ab\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\5bb8027b44ebe3059aa32fc1c1d58ac158a7e2ab\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\5bb8027b44ebe3059aa32fc1c1d58ac158a7e2ab\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\5bb8027b44ebe3059aa32fc1c1d58ac158a7e2ab\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\5bb8027b44ebe3059aa32fc1c1d58ac158a7e2ab\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\5bb8027b44ebe3059aa32fc1c1d58ac158a7e2ab\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    }
+]

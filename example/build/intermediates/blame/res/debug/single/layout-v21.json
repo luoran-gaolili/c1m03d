@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\project\\c1m03d\\example\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\5bb8027b44ebe3059aa32fc1c1d58ac158a7e2ab\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\example\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\5bb8027b44ebe3059aa32fc1c1d58ac158a7e2ab\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\example\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\5bb8027b44ebe3059aa32fc1c1d58ac158a7e2ab\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\example\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\luoran\\.android\\build-cache\\5bb8027b44ebe3059aa32fc1c1d58ac158a7e2ab\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]

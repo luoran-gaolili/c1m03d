@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\project\\c1m03d\\example\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "D:\\project\\c1m03d\\example\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\example\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\project\\c1m03d\\example\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\project\\c1m03d\\example\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\app_logo.png",
+        "source": "D:\\project\\c1m03d\\example\\src\\main\\res\\mipmap-xhdpi\\app_logo.png"
+    }
+]
